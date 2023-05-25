@@ -9,5 +9,5 @@ Ahmad Miftahul Huda (m038dsx1807@bangkit.academy)
 Damayanti Dwi Astuti ()  
 Rahmawati Setyorini ()  
 Regina Irene Putri Sharon ()  
-David Nasrulloh ()
+David Nasrulloh (a366dkx4797@bangkit.academy)
 
