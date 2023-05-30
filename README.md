@@ -8,7 +8,7 @@ We chose this name of "DauRuang" because first, the word "Daur" is taken from re
 Our Team :  
 Brian Wijaya (M355DSX1541@bangkit.academy)  
 Ahmad Miftahul Huda (M038DSX1807@bangkit.academy)  
-Damayanti Dwi Astuti (M169DSY0171 @bangkit.academy)  
+Damayanti Dwi Astuti (M169DSY0171@bangkit.academy)  
 Rahmawati Setyorini (C172DSY2207@bangkit.academy)  
 Regina Irene Putri Sharon (C172DSY3155@bangkit.academy)  
 David Nasrulloh (A366DKX4797@bangkit.academy)
