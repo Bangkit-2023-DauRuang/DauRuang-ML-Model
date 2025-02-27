@@ -1,15 +1,25 @@
-# DauRuang
-This is Bangkit Final Capstone Project by Team C23-PC699
+# Machine Learning for DauRuang
 
-DauRuang (Ruang Daur Ulang Menghasilkan Uang)
-We chose this name of "DauRuang" because first, the word "Daur" is taken from recycling or which means according to KBBI, namely the activity or reprocessing of materials that have been used. This is in accordance with the project we want to develop, namely recycling materials or waste, ranging from plastic to used cooking oil. Then, the word "Uang" is taken from the income generated from the collection of used waste itself. Also, in the title of our project there we also emphasize the word "R" in "DauRuang" because space itself means a place or place for people who care about the sustainability of the environment to collect leftovers to be collected at the nearest waste collectors centers.
+## Overview
+This repository contains the **machine learning** component of the Bangkit capstone project, **DauRuang**. DauRuang is a mobile application designed to facilitate the collection of recyclable waste and provide rewards to users, promoting **sustainable living**.
 
+## About DauRuang
+DauRuang helps users easily manage their recyclable waste through the following workflow:
+1. Users scan their recyclable waste using an **Android** device.
+2. The application classifies the type of waste using a **machine learning model**.
+3. Users can select a recycling center where they want to sell the waste.
+4. The waste is picked up from the user's location and delivered to the selected recycling center.
+5. Users earn points based on the amount of waste collected.
+6. Collected points can be exchanged for rewards.
 
-Our Team :  
-Brian Wijaya (M355DSX1541@bangkit.academy)  
-Ahmad Miftahul Huda (M038DSX1807@bangkit.academy)  
-Damayanti Dwi Astuti (M169DSY0171@bangkit.academy)  
-Rahmawati Setyorini (C172DSY2207@bangkit.academy)  
-Regina Irene Putri Sharon (C172DSY3155@bangkit.academy)  
-David Nasrulloh (A366DKX4797@bangkit.academy)
+## Machine Learning Component
+The **machine learning** aspect of this project focuses on **waste image classification**. The model was developed in collaboration with the **machine learning learning path** teammates.
 
+### Model Development
+- **Transfer Learning**: We used TensorFlow's **transfer learning** approach to train the model efficiently.
+- **Model Deployment**: The trained model was converted to **TensorFlow Lite (TFLite)** for integration into the mobile application.
+
+## Tech Stack
+- **TensorFlow** (for training the ML model)
+- **TensorFlow Lite** (for model deployment on Android)
+- **Python** (for preprocessing and model training)
